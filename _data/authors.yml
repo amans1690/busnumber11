@@ -1,0 +1,33 @@
+busnumber11:
+    name   : "Aman Sharma"
+    avatar : "/assets/images/busnumber11-logo.png"
+    bio    : "My awesome biography constrained to a sentence or two goes here."
+    links:
+      - label: "Youtube"
+        icon: "fab fa-fw fa-youtube"
+        url: "https://www.youtube.com/"
+      - label: "Instagram"
+        icon: "fab fa-fw fa-instagram"
+        url: "https://instagram.com/"
+amansharma:
+    name   : "Aman Sharma"
+    avatar : "/assets/images/busnumber11-logo.png"
+    bio    : "My awesome biography constrained to a sentence or two goes here."
+    links:
+      - label: "Youtube"
+        icon: "fab fa-fw fa-youtube"
+        url: "https://www.youtube.com/"
+      - label: "Instagram"
+        icon: "fab fa-fw fa-instagram"
+        url: "https://instagram.com/"
+prateekjoshi:
+  name   : "Prateek Joshi"
+  avatar : "/assets/images/busnumber11-logo.png"
+  bio    : "My awesome biography constrained to a sentence or two goes here."
+  links:
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
