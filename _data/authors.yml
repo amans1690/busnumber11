@@ -11,15 +11,18 @@ busnumber11:
         url: "https://instagram.com/"
 amansharma:
     name   : "Aman Sharma"
-    avatar : "/assets/images/busnumber11-logo.png"
-    bio    : "My awesome biography constrained to a sentence or two goes here."
+    avatar : "/assets/images/amandp.jpeg"
+    bio    : "Trying everything!!"
     links:
       - label: "Youtube"
         icon: "fab fa-fw fa-youtube"
-        url: "https://www.youtube.com/"
+        url: "https://www.youtube.com/channel/UCeSTN92XKB2Ld6LzSyPs_sg/"
       - label: "Instagram"
         icon: "fab fa-fw fa-instagram"
-        url: "https://instagram.com/"
+        url: "https://www.instagram.com/busnumber11/"
+      - label: "Facebook"
+        icon: "fab fa-fw fa-facebook-square"
+        url: "https://www.facebook.com/busnumber11/"
 prateekjoshi:
   name   : "Prateek Joshi"
   avatar : "/assets/images/busnumber11-logo.png"
