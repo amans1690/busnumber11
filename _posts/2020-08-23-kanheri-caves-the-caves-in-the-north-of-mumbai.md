@@ -16,6 +16,8 @@ header:
     id: oCHCcl79a5Y
     provider: youtube
 
+canonical_url: "https://busnumber11.com/mumbai/caves/kanheri-caves-the-caves-in-the-north-of-mumbai/"
+
 author: amansharma
 ---
 <strong>Visit Date:</strong> 16th Aug 2018
